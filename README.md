@@ -78,3 +78,7 @@ This project is open-source and available under the MIT License.
 ## Acknowledgements
 - [Firebase](https://firebase.google.com/) for authentication and Firestore database.
 - [React](https://reactjs.org/) for the front-end framework.
+
+
+![image](https://github.com/user-attachments/assets/485e8158-95db-45c9-9eba-54e1d49071e6)
+
